@@ -1,2 +1,2 @@
 # TouhouVR
-Public repo of all Touhou VR - Infinite Breathless Nights builds.
+Public repo of all known Touhou VR - Infinite Breathless Nights builds.
